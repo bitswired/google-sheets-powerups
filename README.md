@@ -1,5 +1,7 @@
 # Google Sheets Powerups
 
+![Google Sheets Powerups](https://user-images.githubusercontent.com/19983429/224753444-9816a8e8-f2e8-426a-a9ea-4300cbcf3852.png)
+
 Enhance your Google Sheets with powerful formulas
 
 ## OpenAI
