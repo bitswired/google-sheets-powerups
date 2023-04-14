@@ -22,5 +22,7 @@ Integrations with OpenAI API: bring GPT3, DALLE and Whisper to your Google Sheet
 
 
 
-[Bitswired Website](https://www.bitswired.com)
-[YouTube Channel](https://youtube.com/@bitswired)
+## References
+
+- [Bitswired Website](https://www.bitswired.com)
+- [Bitswired YouTube Channel](https://youtube.com/@bitswired)
