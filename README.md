@@ -23,7 +23,7 @@ Integrations with OpenAI API: bring GPT3, DALLE and Whisper to your Google Sheet
 
 ### WHISPER
 
-- [YouTube](https://youtu.be/7zyeY2V8ar8)
+- [YouTube](https://youtu.be/JYi5Lx2Tkf0)
 - [whisper.js](whisper.js)
 
 
